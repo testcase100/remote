@@ -1,4 +1,4 @@
-gem 'http://gems.com'
+##gem 'http://gems.com'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
