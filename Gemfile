@@ -1,11 +1,4 @@
-###wreeddd#zmian##source 'https://rubygems.org'
-##source hrepppp
-#modify again
-#### Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-Something else xd xd xd xd xd xd xd 
-Something else xd xd xd 
-gem 'rails', '4.1.6'
-# Use sqlite3 as the database for Active Record
+gem 'http://gems.com'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
