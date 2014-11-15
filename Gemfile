@@ -1,4 +1,4 @@
-wreeddd#zmian##source 'https://rubygems.org'
+###wreeddd#zmian##source 'https://rubygems.org'
 ##source hrepppp
 #modify again
 #### Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
